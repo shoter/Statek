@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Damian.MWGK.Obiekt.Statek.StatekKosmiczny">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAADQAAAAAAAADAEEAAAEAAAAIQAAgAAIAQA=</HashCode>
+      <FileName>Obiekt\statek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Obiekt.Obiekt">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEQAAgAAAgQgABAAQAEADBFAAAQAAAAAAASAIgAQYwA=</HashCode>
+      <FileName>Obiekt\obiekt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Obiekt.Bron.Rakieta">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAAAACAAAAgAAAAAAAEAAAAAAABAAAEAQAAkASA=</HashCode>
+      <FileName>Obiekt\Bron\Rakieta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Sprite.SpriteAnimated">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAEABAAAAAAAAAAAAAAEYSA=</HashCode>
+      <FileName>SpriteAnimated.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Sprite.MultiSprite">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMEAAAAAIAAAAEAAAAAAACAAAAAAAAAAwA=</HashCode>
+      <FileName>MultiSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Obiekt.Bron.Laser">
+    <Position X="8" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAEAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obiekt\Bron\Laser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Button.Button">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgBACAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obiekt\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Obiekt.Statek.Gracz.Gracz">
+    <Position X="2.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAAAAAAAAAAAAAAAAAEAAAAUAAAEIAAABAAAEAA=</HashCode>
+      <FileName>Obiekt\Gracz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Particle.Particle" Collapsed="true">
+    <Position X="6.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAEAAAAAAAAAEABAABAAAAAAAAAIAEASA=</HashCode>
+      <FileName>Particle\particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Particle.Storage.ParticleStorage">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAEABAAAQAAAAQAAAAAAAQA=</HashCode>
+      <FileName>Particle\Kontenery\ParticleStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Particle.DynamicParticle">
+    <Position X="6.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgAAAgQAAAAAQAEABAFAAAAAAAAAAAAAIAAwAQA=</HashCode>
+      <FileName>Particle\DynamicParticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Particle.Storage.ParticleCirle">
+    <Position X="14.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIDAAAAAwGAAgAAAIAAQCUAAAAKBQAAAAAAgAICYCA=</HashCode>
+      <FileName>Particle\Kontenery\ParticleCircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Particle.Storage.ParticleGun">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEIDAAAAQwEAAgAAAIAAQBUAAAAABQAAAAAAgAIGYCA=</HashCode>
+      <FileName>Particle\Kontenery\ParticleGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Obiekt.Statek.StatekWroga">
+    <Position X="0.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obiekt\StatekWroga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Obiekt.Bron.RakietyWroga">
+    <Position X="5.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obiekt\RakietyWroga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damian.MWGK.Obiekt.Bron.LaserWroga">
+    <Position X="8" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obiekt\LaserWroga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

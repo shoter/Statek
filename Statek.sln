@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statek", "Statek\Statek\Statek.csproj", "{D70EB009-20D7-4F3A-B1CA-6D25B275DFBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatekContent", "Statek\StatekContent\StatekContent.contentproj", "{B400673B-056B-497D-89B4-F58F3918C1B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8EC470F-A4B0-4316-AA18-C8CF578DF0CA}"
+	ProjectSection(SolutionItems) = preProject
+		Creative Commons i innce licencje.txt = Creative Commons i innce licencje.txt
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70EB009-20D7-4F3A-B1CA-6D25B275DFBE}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{D70EB009-20D7-4F3A-B1CA-6D25B275DFBE}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{D70EB009-20D7-4F3A-B1CA-6D25B275DFBE}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{D70EB009-20D7-4F3A-B1CA-6D25B275DFBE}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{D70EB009-20D7-4F3A-B1CA-6D25B275DFBE}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{D70EB009-20D7-4F3A-B1CA-6D25B275DFBE}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{B400673B-056B-497D-89B4-F58F3918C1B1}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{B400673B-056B-497D-89B4-F58F3918C1B1}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
